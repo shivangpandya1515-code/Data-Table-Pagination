@@ -54,7 +54,7 @@ Each student contains:
 
 The JSON Server API is:
 
-http://localhost:3000/students
+<http://localhost:3000/students>
 
 ## Pagination
 
@@ -84,7 +84,7 @@ GET
 
 API URL:
 
-http://localhost:3000/students
+<http://localhost:3000/students>
 
 The API gets all student records from the `db.json` file.
 
@@ -129,6 +129,10 @@ becomes:
 ## Output Photos
 
 ![output photo](image.png)
+
+## Video Link
+
+[click to show video](https://docs.google.com/videos/d/1e7i9yGZ53HFIJvpe0nIB-lp5UWtHuJDG2kAovkEOsXg/play?usp=sharing)
 
 ## Conclusion
 
